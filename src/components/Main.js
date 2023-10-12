@@ -23,7 +23,7 @@ export const Main = () =>{
                     <h3>Explore pre-vetted investment opportunities
                         available in a growing number of industry categories.</h3>
 
-                    <Card style={{ width: '23rem' }} className='card1'>
+                    <Card className='card1'>
                     <Card.Img variant="top" src={CardImg1} />
                     
                     <Card.Body>
@@ -46,7 +46,7 @@ export const Main = () =>{
                     </Card.Body>
                     </Card>
 
-                    <Card style={{ width: '23rem' }} className='card2'>
+                    <Card className='card2'>
                     <Card.Img variant="top" src={CardImg2} />
                     
                     <Card.Body >
@@ -69,7 +69,7 @@ export const Main = () =>{
                     </Card.Body>
                     </Card>
 
-                    <Card style={{ width: '23rem' }} className='card3'>
+                    <Card className='card3'>
                     <Card.Img variant="top" src={CardImg6} />
                     
                     <Card.Body >
@@ -92,7 +92,7 @@ export const Main = () =>{
                     </Card.Body>
                     </Card>
 
-                    <Card style={{ width: '23rem' }} className='card4'>
+                    <Card className='card4'>
                     <Card.Img variant="top" src={CardImg4} />
                     
                     <Card.Body >
@@ -115,7 +115,7 @@ export const Main = () =>{
                     </Card.Body>
                     </Card>
 
-                    <Card style={{ width: '23rem' }} className='card5'>
+                    <Card className='card5'>
                     <Card.Img variant="top" src={CardImg5} />
                     
                     <Card.Body >
@@ -138,7 +138,7 @@ export const Main = () =>{
                     </Card.Body>
                     </Card>
 
-                    <Card style={{ width: '23rem' }} className='card6'>
+                    <Card className='card6'>
                     <Card.Img variant="top" src={CardImg3} />
                     
                     <Card.Body >

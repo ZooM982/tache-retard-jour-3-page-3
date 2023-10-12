@@ -1,9 +1,10 @@
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import subtractImg from '../assets/img/Subtract.svg'
-import chartlineImg from '../assets/img/Chart Linechart.png'
+import chartlineImg from '../assets/img/Chart Line.png'
 import groupImg1 from '../assets/img/Group.svg'
 import groupImg2 from '../assets/img/Group 1.svg'
+import vectorImg from '../assets/img/Vector.png'
 
 
 
@@ -18,7 +19,12 @@ export const Graph = () =>{
                         <h1>$7M+ paid out to investors</h1>
                         <p>Next Invest has already paid out over $7M in cash returns to investors.
                              Earn potential cash
-                             payments through unique revenue-share and debt financing investments.</p>
+                             payments through unique revenue-share and debt 
+                             financing investments.
+                        </p>
+                        <div className='vctor'>
+                            <img alt='' src={vectorImg}></img>
+                        </div>
                     </div>
                     <div className='chart'>  
                         <div className='ecrit'>
