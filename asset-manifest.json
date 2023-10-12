@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tache-retard-jour-3-page-3/static/css/main.88126aef.css",
-    "main.js": "/tache-retard-jour-3-page-3/static/js/main.f0601898.js",
+    "main.css": "/tache-retard-jour-3-page-3/static/css/main.cf46429c.css",
+    "main.js": "/tache-retard-jour-3-page-3/static/js/main.30e1f402.js",
     "static/js/787.24968b61.chunk.js": "/tache-retard-jour-3-page-3/static/js/787.24968b61.chunk.js",
     "static/media/header.jpeg": "/tache-retard-jour-3-page-3/static/media/header.b454442fa74e00ee0ca8.jpeg",
     "static/media/card6.jpeg": "/tache-retard-jour-3-page-3/static/media/card6.9ad6f25455afb2266a19.jpeg",
@@ -12,17 +12,17 @@
     "static/media/card4.jpeg": "/tache-retard-jour-3-page-3/static/media/card4.06334114fa0419a8bf28.jpeg",
     "static/media/card2.jpeg": "/tache-retard-jour-3-page-3/static/media/card2.aaed45eb576302b02df3.jpeg",
     "static/media/mask.png": "/tache-retard-jour-3-page-3/static/media/mask.138914179796d09db927.png",
-    "static/media/Chart Linechart.png": "/tache-retard-jour-3-page-3/static/media/Chart Linechart.673e1d1a3b2ec9e518da.png",
+    "static/media/Chart Line.png": "/tache-retard-jour-3-page-3/static/media/Chart Line.5e145bd85f19fa615016.png",
     "static/media/Group 1.svg": "/tache-retard-jour-3-page-3/static/media/Group 1.651344c9bd429a055cd10e68f52652cc.svg",
     "static/media/Group.svg": "/tache-retard-jour-3-page-3/static/media/Group.f45ebaaf8bbd2ddd7ce9af9a95310bbf.svg",
     "index.html": "/tache-retard-jour-3-page-3/index.html",
     "static/media/Subtract.svg": "/tache-retard-jour-3-page-3/static/media/Subtract.47e5b95c851d6ebc7f585382f0a72b14.svg",
-    "main.88126aef.css.map": "/tache-retard-jour-3-page-3/static/css/main.88126aef.css.map",
-    "main.f0601898.js.map": "/tache-retard-jour-3-page-3/static/js/main.f0601898.js.map",
+    "main.cf46429c.css.map": "/tache-retard-jour-3-page-3/static/css/main.cf46429c.css.map",
+    "main.30e1f402.js.map": "/tache-retard-jour-3-page-3/static/js/main.30e1f402.js.map",
     "787.24968b61.chunk.js.map": "/tache-retard-jour-3-page-3/static/js/787.24968b61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88126aef.css",
-    "static/js/main.f0601898.js"
+    "static/css/main.cf46429c.css",
+    "static/js/main.30e1f402.js"
   ]
 }
